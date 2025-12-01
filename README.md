@@ -3,5 +3,5 @@ This my final project I did for __D326:Advanced Data Management__. I was instruc
 
 ##<ins>Final Submission:</ins>
 <ul>
-  <li>[D326 Submission](PA D326 turn in-PDF.pdf)</li>
+  <li>[D326 Submission](https://github.com/RebeccaWells3/SQL-/blob/main/PA%20D326%20turn%20in-PDF.pdf)</li>
 </ul>
