@@ -4,6 +4,7 @@ This my final project I did for _D326:Advanced Data Management_. I was instructe
 
 ## <ins>Instructions:</ins>
 
+  -[Final Instructions](https://github.com/RebeccaWells3/SQL-/blob/main/D326%20Instructions.pdf)
   
 ## <ins>Final Submission:</ins>
 
