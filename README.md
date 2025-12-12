@@ -1,5 +1,5 @@
 # SQL
-This my final project I did for _D326:Advanced Data Management_. I designed a small reporting pipeline (on paper/in SQL ONLY- not as a real deployed system) that included raw data extraction, custom transformations, summary table creation, and automated refresh logic using triggers and stored procedures. I was instructed to turn in my code using a word document and record a video presentation showing that my code worked. 
+This my final project I did for _D326:Advanced Data Management_. I designed a small reporting pipeline (on paper/in SQL ONLY- not as a real deployed system) that included raw data extraction, custom transformations, summary table creation, and automated refresh logic using triggers and stored procedures to answer business questions. I was instructed to turn in my code using a word document and record a video presentation showing that my code worked. 
 
 
 ## <ins>Instructions:</ins>
